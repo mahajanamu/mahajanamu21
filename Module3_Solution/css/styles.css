@@ -79,6 +79,7 @@ p {
   margin :35px auto;
   font-family: Georgia sans-serif;
   font-size: 16px;
+  text-overflow: clip;
   position: relative;
 }
 #nr1 {
