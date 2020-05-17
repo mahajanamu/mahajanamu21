@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #000000;
-  background-color: skyblue;
+  background-color:;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -57,10 +57,11 @@ h2{
   
 }
 .section { 
-  background-color: rgb(150, 150, 150);
+  width: 100%;
+  background-color: gray;
   border: 2px solid black;
-  margin-top: 20px; 
-  margin-right: 20px; 
+  margin-top: 0px; 
+  margin-right: 0px; 
   padding: 3px;
   text-align: justify;
   position: relative;
